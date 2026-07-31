@@ -1,0 +1,384 @@
+# ROADMAP.md
+
+---
+Status: SUPPORTING
+Authority: High
+Scope: Project Development
+Version: 1.0
+
+Depends On:
+- SERVER_VISION.md
+- DESIGN_PRINCIPLES.md
+
+This document defines the order in which systems are introduced.
+
+Roadmap priority is determined by player experience—not technical complexity.
+---
+
+# Project Philosophy
+
+The project will evolve through playable milestones.
+
+Every milestone must satisfy three requirements:
+
+✓ Fun immediately
+
+✓ Stable enough to enjoy repeatedly
+
+✓ Builds toward the long-term vision
+
+If a milestone is technically impressive but not enjoyable...
+
+It is not complete.
+
+---
+
+# Phase 0
+## Friday Night
+
+### Goal
+
+Play.
+
+Not develop.
+
+Three friends should be able to install the mod pack, connect to the server, and have an exciting evening.
+
+### Deliverables
+
+- Stable dedicated server
+- Curated mod stack
+- Persistent loadouts
+- Dynamic missions
+- Helicopter support
+- Reactive AI
+- Functional FOB
+- Server documentation
+
+### Player Experience
+
+> "That was honestly more fun than the default game."
+
+Success Metric:
+
+Players voluntarily ask,
+
+*"One more mission?"*
+
+---
+
+# Phase 1
+## Living Battlefield
+
+### Goal
+
+Make the world feel alive.
+
+Not larger.
+
+Alive.
+
+### Features
+
+- Dynamic patrols
+- Convoys
+- Helicopter patrols
+- Enemy reinforcements
+- Civilian activity
+- Better environmental storytelling
+
+### Player Experience
+
+Players begin asking:
+
+"Did that convoy exist before we got here?"
+
+The answer should be impossible to know.
+
+---
+
+# Phase 2
+## Consequences
+
+### Goal
+
+Actions matter.
+
+The battlefield remembers.
+
+### Features
+
+- Destroyed infrastructure
+- Regional alert levels
+- Persistent objectives
+- Mission chains
+- Dynamic follow-up missions
+
+Examples
+
+Destroy radar
+
+↓
+
+Enemy aircraft become less effective.
+
+Destroy bridge
+
+↓
+
+Enemy logistics reroute.
+
+Kill commander
+
+↓
+
+Regional coordination weakens.
+
+### Player Experience
+
+"We caused this."
+
+---
+
+# Phase 3
+## Intelligence Warfare
+
+### Goal
+
+Information becomes a resource.
+
+### Features
+
+- Captured documents
+- Enemy laptops
+- Radio intercepts
+- Recon missions
+- Hidden objectives
+- Intelligence database
+
+### Player Experience
+
+"We discovered that."
+
+Not
+
+"The game told us."
+
+---
+
+# Phase 4
+## Logistics
+
+### Goal
+
+The enemy fights using resources.
+
+Not infinite spawning.
+
+### Features
+
+- Supply depots
+- Fuel
+- Ammunition
+- Repair facilities
+- Convoys
+- Vehicle pools
+
+Destroying logistics weakens future resistance.
+
+Ignoring logistics strengthens the enemy.
+
+### Player Experience
+
+"We made tomorrow easier."
+
+---
+
+# Phase 5
+## Strategic AI
+
+### Goal
+
+The enemy begins making decisions.
+
+### Features
+
+Mission Director
+
+Strategic Commander
+
+Threat budgets
+
+Regional priorities
+
+Reserve forces
+
+Counterattacks
+
+Adaptive patrols
+
+### Player Experience
+
+"I swear they're reacting to us."
+
+Players should never know whether the AI actually adapted.
+
+They should believe it did.
+
+---
+
+# Phase 6
+## Living Campaign
+
+### Goal
+
+The war continues.
+
+With or without players.
+
+### Systems
+
+Friendly offensives
+
+Enemy offensives
+
+Dynamic territory
+
+Supply chains
+
+Weather
+
+Regional victories
+
+Regional defeats
+
+Dynamic economy
+
+Civilian influence
+
+### Player Experience
+
+Players join an ongoing war.
+
+Not a waiting lobby.
+
+---
+
+# Phase 7
+## Community Scale
+
+### Goal
+
+Scale naturally.
+
+The gameplay fantasy never changes.
+
+Only the number of simultaneous operations changes.
+
+### Examples
+
+3 Players
+
+One squad.
+
+12 Players
+
+Multiple squads.
+
+32 Players
+
+Task Force.
+
+64 Players
+
+Regional campaign.
+
+100+ Players
+
+Persistent public server.
+
+The individual player should still feel like Special Operations.
+
+Not disposable infantry.
+
+---
+
+# Stretch Goals
+
+These ideas are intentionally low priority.
+
+They are exciting.
+
+They are not required.
+
+Examples:
+
+Advanced medical simulation
+
+Dynamic weather fronts
+
+Electronic warfare
+
+Drone reconnaissance
+
+Civilian intelligence networks
+
+Faction reputation
+
+Enemy commander personalities
+
+Persistent equipment caches
+
+AI-controlled friendly battalions
+
+Voice-generated radio traffic
+
+None of these should delay the core experience.
+
+---
+
+# Success Criteria
+
+The project is successful when:
+
+Three friends laugh.
+
+Three friends panic.
+
+Three friends improvise.
+
+Three friends tell stories afterward.
+
+Everything else is optimization.
+
+---
+
+# The North Star
+
+Every release should answer one question:
+
+**"Did this create more memorable stories than the last release?"**
+
+If yes...
+
+Ship it.
+
+If no...
+
+Keep iterating.
+
+---
+
+# Final Reminder
+
+Never build for Version 5 at the expense of Version 1.
+
+The greatest strength of this project is that every stage of its evolution should be enjoyable.
+
+The project should grow the same way living systems grow:
+
+Every new capability provides immediate value.
+
+Nothing exists merely to support a future feature.
+
+That is how this project avoids becoming another unfinished dream.
